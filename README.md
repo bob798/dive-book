@@ -25,5 +25,6 @@
 | 书 | 目录 | 状态 |
 |---|---|---|
 | 《遥远的救世主》（电视剧《天道》原著，豆豆，2005） | [`books/tiandao/`](books/tiandao/) | ✅ 已拆 |
+| 《人生算法》（喻颖正/老喻，中信出版社，2020） | [`books/rensheng-suanfa/`](books/rensheng-suanfa/) | ✅ 已拆 |
 
 新书拆解从 [`templates/拆书模板.md`](templates/拆书模板.md) 起步。
