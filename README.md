@@ -29,5 +29,6 @@
 | 《穷查理宝典》（查理·芒格，彼得·考夫曼编，中信出版社） | [`books/qiongchali/`](books/qiongchali/) | ✅ 已拆 |
 | 《思考，快与慢》（丹尼尔·卡尼曼，中信出版社，2012） | [`books/sikuaiman/`](books/sikuaiman/) | ✅ 已拆 |
 | 《纳瓦尔宝典》（埃里克·乔根森编，中信出版社，2022） | [`books/nawaer/`](books/nawaer/) | ✅ 已拆 |
+| 《把时间当作朋友》（李笑来，电子工业出版社） | [`books/bashijian/`](books/bashijian/) | ✅ 已拆 |
 
 新书拆解从 [`templates/拆书模板.md`](templates/拆书模板.md) 起步。
