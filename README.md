@@ -32,5 +32,6 @@
 | 《把时间当作朋友》（李笑来，电子工业出版社） | [`books/bashijian/`](books/bashijian/) | ✅ 已拆 |
 | 《反脆弱》（纳西姆·塔勒布，中信出版社，2014） | [`books/fancuiruo/`](books/fancuiruo/) | ✅ 已拆 |
 | 《认知觉醒》（周岭，人民邮电出版社，2020） | [`books/renzhijuexing/`](books/renzhijuexing/) | ✅ 已拆 |
+| 《原则》（瑞·达利欧，中信出版社，2018） | [`books/yuanze/`](books/yuanze/) | ✅ 已拆 |
 
 新书拆解从 [`templates/拆书模板.md`](templates/拆书模板.md) 起步。
