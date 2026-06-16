@@ -31,5 +31,6 @@
 | 《纳瓦尔宝典》（埃里克·乔根森编，中信出版社，2022） | [`books/nawaer/`](books/nawaer/) | ✅ 已拆 |
 | 《把时间当作朋友》（李笑来，电子工业出版社） | [`books/bashijian/`](books/bashijian/) | ✅ 已拆 |
 | 《反脆弱》（纳西姆·塔勒布，中信出版社，2014） | [`books/fancuiruo/`](books/fancuiruo/) | ✅ 已拆 |
+| 《认知觉醒》（周岭，人民邮电出版社，2020） | [`books/renzhijuexing/`](books/renzhijuexing/) | ✅ 已拆 |
 
 新书拆解从 [`templates/拆书模板.md`](templates/拆书模板.md) 起步。
